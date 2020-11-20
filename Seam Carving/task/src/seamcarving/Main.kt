@@ -174,12 +174,12 @@ fun findSeamPixels(energyList: MutableList<MutableList<Double>>): List<Int> {
                     smallestEnergyList[x + 1][y - 1] = Pair(pendingValueLeft, y)
                 }
             }
-            
+
             val pendingValueBottom = smallestEnergyList[x][y].first + energyList[x + 1][y]
             if (smallestEnergyList[x + 1][y].first >= pendingValueBottom) {
                 smallestEnergyList[x + 1][y] = Pair(pendingValueBottom, y)
             }
-            
+
             if (y != energyList[0].size - 1) {
                 val pendingValueRight = smallestEnergyList[x][y].first + energyList[x + 1][y + 1]
                 if (smallestEnergyList[x + 1][y + 1].first >= pendingValueRight) {
@@ -188,7 +188,7 @@ fun findSeamPixels(energyList: MutableList<MutableList<Double>>): List<Int> {
             }
         }
     }
-    
+
     var minIndex = -1
     var minValue = Double.MAX_VALUE
     for (y in smallestEnergyList[0].indices) {
@@ -197,15 +197,15 @@ fun findSeamPixels(energyList: MutableList<MutableList<Double>>): List<Int> {
             minValue = smallestEnergyList[energyList.size - 1][y].first
         }
     }
-    
+
     for (x in energyList.size - 1 downTo 1) {
         seamPixels.add(minIndex)
         minIndex = smallestEnergyList[x][minIndex].second
     }
-    
+
     seamPixels.add(minIndex)
     seamPixels.reverse()
-    
+
     return seamPixels
 }
 

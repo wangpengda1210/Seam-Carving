@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun url(host: String, port: Int): String {
+        // TODO
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7864#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7864#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 20 Nov 2020 05:55:49 UTC
+record: -1

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Kotlin code/Seam_Carving.Problems-Kotlin_code.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Kotlin code/Seam_Carving.Problems-Kotlin_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/URL/Seam_Carving.Problems-URL.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/URL/Seam_Carving.Problems-URL.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" />
     </modules>
