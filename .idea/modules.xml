@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" />
+    </modules>
+  </component>
+</project>
