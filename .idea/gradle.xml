@@ -11,8 +11,24 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Always win the dice game" />
+            <option value="$PROJECT_DIR$/Problems/Combination" />
+            <option value="$PROJECT_DIR$/Problems/Complex handling" />
+            <option value="$PROJECT_DIR$/Problems/Division problem" />
+            <option value="$PROJECT_DIR$/Problems/Filter" />
+            <option value="$PROJECT_DIR$/Problems/Finalizing" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
             <option value="$PROJECT_DIR$/Problems/Kotlin code" />
+            <option value="$PROJECT_DIR$/Problems/Parting words" />
+            <option value="$PROJECT_DIR$/Problems/Predictable  random  password" />
+            <option value="$PROJECT_DIR$/Problems/Roll the dice" />
+            <option value="$PROJECT_DIR$/Problems/Subtraction" />
+            <option value="$PROJECT_DIR$/Problems/Temperature generator" />
+            <option value="$PROJECT_DIR$/Problems/The Answer is" />
+            <option value="$PROJECT_DIR$/Problems/To clear or not to clear" />
             <option value="$PROJECT_DIR$/Problems/URL" />
+            <option value="$PROJECT_DIR$/Problems/What's wrong" />
             <option value="$PROJECT_DIR$/Seam Carving/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>

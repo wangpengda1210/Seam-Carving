@@ -2,10 +2,12 @@
   <library name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/d1175d7c02ae30ec0dc4b424f7d0db826112f75b/hs-test-release-SNAPSHOT.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/e5d2094d7f74b639fe655697a7bc82450f7e3de6/hs-test-release-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/9a4a8cae1ab193daa4879c1031b1f608749c50ac/hs-test-release-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hyperskill/hs-test/release-SNAPSHOT/afbbdda8e54ba7389cace9f8d1e3f5a333be1cb3/hs-test-release-SNAPSHOT-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

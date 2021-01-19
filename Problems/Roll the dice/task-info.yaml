@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun throwD6(): Int {\n    // write your code here, Random is already imported\
+    \ for you \n\treturn numberOnTheDice\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11807#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 19 Jan 2021 07:21:21 UTC
+record: -1

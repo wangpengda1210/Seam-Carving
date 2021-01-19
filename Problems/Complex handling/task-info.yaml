@@ -1,0 +1,14 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    suspiciousFunction(data)
+    // ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11816#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 19 Jan 2021 08:40:24 UTC
+record: -1

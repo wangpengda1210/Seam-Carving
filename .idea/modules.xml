@@ -3,8 +3,24 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam_Carving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Always win the dice game/Seam_Carving.Problems-Always_win_the_dice_game.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Always win the dice game/Seam_Carving.Problems-Always_win_the_dice_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Combination/Seam_Carving.Problems-Combination.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Combination/Seam_Carving.Problems-Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Complex handling/Seam_Carving.Problems-Complex_handling.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Complex handling/Seam_Carving.Problems-Complex_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Division problem/Seam_Carving.Problems-Division_problem.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Division problem/Seam_Carving.Problems-Division_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Filter/Seam_Carving.Problems-Filter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Filter/Seam_Carving.Problems-Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Finalizing/Seam_Carving.Problems-Finalizing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Finalizing/Seam_Carving.Problems-Finalizing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Seam_Carving.Problems-Fix_compile-time_errors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Seam_Carving.Problems-Fix_compile-time_errors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Seam_Carving.Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Seam_Carving.Problems-Fix_the_program.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Kotlin code/Seam_Carving.Problems-Kotlin_code.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Kotlin code/Seam_Carving.Problems-Kotlin_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Parting words/Seam_Carving.Problems-Parting_words.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Parting words/Seam_Carving.Problems-Parting_words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Predictable  random  password/Seam_Carving.Problems-Predictable__random__password.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Predictable  random  password/Seam_Carving.Problems-Predictable__random__password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Roll the dice/Seam_Carving.Problems-Roll_the_dice.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Roll the dice/Seam_Carving.Problems-Roll_the_dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Subtraction/Seam_Carving.Problems-Subtraction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Subtraction/Seam_Carving.Problems-Subtraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Temperature generator/Seam_Carving.Problems-Temperature_generator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Temperature generator/Seam_Carving.Problems-Temperature_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The Answer is/Seam_Carving.Problems-The_Answer_is.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The Answer is/Seam_Carving.Problems-The_Answer_is.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/To clear or not to clear/Seam_Carving.Problems-To_clear_or_not_to_clear.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/To clear or not to clear/Seam_Carving.Problems-To_clear_or_not_to_clear.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/URL/Seam_Carving.Problems-URL.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/URL/Seam_Carving.Problems-URL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Seam_Carving.Problems-What's_wrong.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Seam_Carving.Problems-What's_wrong.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Seam Carving/task/Seam_Carving.Seam_Carving-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Seam_Carving.util.iml" />
     </modules>
